@@ -1,0 +1,5 @@
+﻿  Оптимизирующий компилятор Microsoft (R) C/C++ версии 19.29.30136 для x86
+  (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+  cl /c /IC:\Users\user\source\repos\CharLib /ZI /JMC /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TP /analyze- /FC /errorReport:prompt CharLibClient.cpp
+  CharLibClient.cpp
+LINK : fatal error LNK1104: не удается открыть файл "CharLib.h"
